@@ -2,4 +2,4 @@
 name: Fútbol
 image: /uploads/futol-logo.jpg
 ---
-All about the Awake Nuxt Template
+En esta categoria encontraras post relacionados al fútbol.

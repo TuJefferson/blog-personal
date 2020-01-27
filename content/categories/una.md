@@ -2,4 +2,4 @@
 name: Universidad Nacional Abierta
 image: /uploads/una-logo.jpg
 ---
-All about the Awake Nuxt Template
+Categoria en la cual puedes leer infomacion de la Universidad Nacional Abierta
